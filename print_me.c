@@ -1,4 +1,5 @@
 #include "main.h"
+
 void print_input(char input[], int *input_ind);
 /**
 * _printf - Printf function
